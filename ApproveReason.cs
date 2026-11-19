@@ -5,4 +5,7 @@ namespace Blackwoods.SupplierPortal.Domain.Entities
         public string Code { get; set; }
         public string Description { get; set; }
     }
+
+//test comments
 }
+
